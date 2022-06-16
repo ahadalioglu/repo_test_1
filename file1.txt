@@ -1,1 +1,2 @@
 Added a line from github.com
+Now, adding the second line.
